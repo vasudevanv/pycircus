@@ -1,0 +1,11 @@
+# gitignore
+
+.ipynb_checkpoints
+__pycache__
+.pytest_cache
+*.pyc
+sort/
+
+# Exceptions
+!guides/images/vscodefirststeps/*.png
+!images/spyder.png
